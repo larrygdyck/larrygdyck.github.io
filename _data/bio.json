@@ -2,39 +2,30 @@
   "basics": {
     "name": "Larry Dyck",
     "label": "Software Developer",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "picture": "https://techfolios.github.io/images/larryprofile.jpg",
+    "email": "larry7305@me.com",
+    "phone": "",
+    "website": "https://larrygdyck.github.io",
+    "summary": "I am a software developer.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "T0L 0C7",
+      "city": "Bragg Creek",
+      "countryCode": "Canada",
+      "region": "Alberta"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
+        "username": "larrygdyck",
         "url": "http://github.com/changeme"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "larry7305",
         "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
       }
+   
     ]
   },
   "interests": [
@@ -61,12 +52,9 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "SWift",
+        "Metal",
+        "C++" 
       ]
     },
     {
@@ -75,18 +63,17 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub"
+       
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Athabasca University",
+      "area": "Applied Mathematics (expected December, 2022)",
+      "studyType": "BSc",
+      "startDate": "",
       "endDate": "Present",
       "gpa": "",
       "courses": [
