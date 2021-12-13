@@ -6,7 +6,7 @@
     "email": "larry7305@me.com",
     "phone": "",
     "website": "https://larrygdyck.github.io",
-    "summary": "I am a software developer.",
+    "summary": "I am a software developer specializing in applications for Apple platforms, including iOS, iPadOS, macOS, tvOS, and watchOS.",
     "location": {
       "address": "",
       "postalCode": "T0L 0C7",
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "larrygdyck",
-        "url": "http://github.com/changeme"
+        "url": "http://github.com/larrygdyck"
       },
       {
         "network": "linkedin",
@@ -30,14 +30,12 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "virtual reality",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "scientific computing",
       "keywords": [
       ]
     },
@@ -52,7 +50,8 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "SWift",
+        "Swift",
+        "SwiftUI",
         "Metal",
         "C++" 
       ]
@@ -61,7 +60,7 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
+        "XCode/MacOS",
         "Ubuntu",
         "Git/GitHub"
        
@@ -73,7 +72,7 @@
       "institution": "Athabasca University",
       "area": "Applied Mathematics (expected December, 2022)",
       "studyType": "BSc",
-      "startDate": "",
+      "startDate": "2019-01-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
