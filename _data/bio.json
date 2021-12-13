@@ -98,14 +98,40 @@
       "website": "https://www.cbe.ab.ca",
       "startDate": "2004-09-01",
       "endDate": "2015-05-1",
-      "summary": "",
+      "summary": "Troubleshoot software, hardware and networking issues for staff and students",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues for staff and students",
         "Assisted students with the use of computer-based hardware and software, set up and configure Mac and PC workstations (including printers and other peripherals) and software applications, and integrated them into the school's environment",
         "Re-imaged Windows workstations using Windows Deployment Services and Microsoft Deployment Toolkit",
         "Managed school wireless network, troubleshooting access point problems, signal strength and throughput",
         "Identified and maintained accurate inventory of computer equipment and software licenses",
         "Submitted daily and/or weekly administrative paperwork including HEAT tickets (call-tracking), status reports, logs, and any other required documentation as specified by the Principal and Technology Support management"
+      ]
+    },
+    {
+      "company": "IronOak IT",
+      "position": "Client Care Specialist",
+      "website": "https://ironoakit.com",
+      "startDate": "2007-07-01",
+      "endDate": "2008-04-1",
+      "summary": "Managed information systems for small and medium sized companies",
+      "highlights": [
+        "Installed and maintained desktop computers and laptops (both MacOS and Windows), and servers (running Microsoft Small Business Server 2003)",
+        "Installed network equipment, email services, and helped advise on project and capital requirements",
+        "Performed data backups, monitored security issues, and performed regular maintenance on business technology"
+      ]
+    },
+    {
+      "company": "Calgary Board of Education",
+      "position": "Lunchroom Supervisor/Computer Technician",
+      "website": "https://www.cbe.ab.ca",
+      "startDate": "2003-02-01",
+      "endDate": "2004-06-01",
+      "summary": "Student Supervision and Tech Support",
+      "highlights": [
+        "Supervision of students at David D. Oughton Elementary School",
+        "Maintained school computer hardware and peripherals",
+        "Re-imaged computers with Windows 95/98 operating systems",
+        "Install and maintain software"
       ]
     }
   ],
