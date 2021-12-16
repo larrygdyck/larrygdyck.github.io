@@ -12,7 +12,9 @@ labels:
 summary: A high performance computer that I designed and built for a cryptocurrency mining venture.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/miner-1.jpg">
+<img class="ui medium right floated rounded image" src="../images/miner-2.jpg">
+<img class="ui medium right floated rounded image" src="../images/miner-3.jpg">
 
 Mining
 
