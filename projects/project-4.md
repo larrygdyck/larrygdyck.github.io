@@ -17,11 +17,7 @@ Mining
 <div class="ui segment">
  <img class="ui avatar image" src="../images/miner-1.jpg">
   <span>I constructed this computing tower using off the shelf computer parts, including 25 AMD Radeon RX580 Graphics processing units (GPU's) which handle the task of processing the mathematical algorithms that verify digital currency transactions and generate new cryptocurrency in the process.  I designed the enclosure in 5 separate, stackable segments, each one having a hexagonal footprint.  This provided optimum cooling for each GPU and allowed individual segments to be removed for maintenance or repair as necessary, while allowing the other segments to continue operating, reducing down time.</span>
-<img class="ui medium right floated rounded image" src="../images/miner-2.jpg">
-  <p>In this project I gained experience with Ubuntu/Linux, command line interfaces and writing scripts to automate and monitor the mining rigs.</p>
-<img class="ui medium left floated rounded image" src="../images/miner-3.jpg">
-  <p>This computer was designed to mine the altcoin "Ethereum" and "Ethereum Classic".  The hash rate averaged around 750 MH/s which generated approximately 1.5 Ethereum "coins" per month.
- </p>
+
 
 </div>
 
