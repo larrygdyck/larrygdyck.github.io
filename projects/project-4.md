@@ -12,7 +12,7 @@ labels:
 summary: A high performance computer that I designed and built for a cryptocurrency mining venture.
 ---
 
-<div class="ui medium right floated rounded image">
+<div class="ui medium floated rounded image">
   <img class="ui image" src="../images/miner-1.jpg">
   <img class="ui image" src="../images/miner-2.jpg">
   <img class="ui image" src="../images/miner-3.jpg">
