@@ -20,8 +20,7 @@ summary: A high performance computer that I designed and built for a cryptocurre
 
 Mining
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+I constructed this computing tower using off the shelf computer parts, including 25 mid-range graphics cards (AMD Radeon RX580's).  I designed the enclosure in 5 separate, stackable segments, with each one having a hexagonal footprint.  This provided optimum cooling for each GPU and allowed individual segments to be removed for maintenance or repair as necessary, while allowing the other segments to continue operating, reducing down time.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+In this project I gained experience with Ubuntu/Linux, command line interfaces and writing scripts to automate and monitor the mining rigs.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
