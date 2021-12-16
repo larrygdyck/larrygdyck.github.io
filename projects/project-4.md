@@ -23,6 +23,6 @@ Mining
   <p>This computer was designed to mine the altcoin "Ethereum" and "Ethereum Classic".  The hash rate averaged around 750 MH/s which generated approximately 1.5 Ethereum "coins" per month.
  </p>
 
-
+</div>
 
 
