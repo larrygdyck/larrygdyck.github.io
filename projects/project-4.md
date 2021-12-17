@@ -14,7 +14,7 @@ summary: A high performance computer that I designed and built for a cryptocurre
 
 Mining
 
-<img class="ui medium image" src="../images/miner.png">
+<img class="ui massive image" src="../images/miner.png">
 
 
  
