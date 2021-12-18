@@ -39,7 +39,7 @@ summary: A high performance computer that I designed and built for a cryptocurre
   </div>
  
   <div class="ui raised center aligned vertigal segment">
-    <p>Peaking at 750 MH/s (million hash operations/second) this mining rig generated approximately 0.4 Ethereum per week or 1.6 Eth per month</p>
+    <p>Peaking at 750 MH/s (million hash operations per second) this mining rig generated approximately 0.4 Ethereum per week or 1.6 Ethereum per month</p>
     <div class="ui hidden divider"></div>
     <img class="ui big centered rounded image" src="/images/ether-stats.jpg">
    
