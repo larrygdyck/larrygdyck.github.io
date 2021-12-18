@@ -21,11 +21,8 @@ summary: A high performance computer that I designed and built for a cryptocurre
   </div>
   
   <div class="ui segment">
-  <p>I constructed this computing tower using off the shelf computer parts, including 25 AMD Radeon RX580 Graphics processing units (GPU's) which handle the task of processing the mathematical algorithms that verify digital currency transactions and generate new cryptocurrency in the process.</p>
-   <div class="ui divider"></div>
-   <div class="ui clearing segment">
-     <p></p>
-    </div>
+  <p>I constructed this computing tower using off the shelf components, including 25 AMD Radeon RX580 Graphics processing units (GPU's) which handle the task of processing the mathematical algorithms that verify digital currency transactions and generate new cryptocurrency in the process.</p>
+   <div class="ui hidden divider"></div>
    <img class="ui medium rounded image" src="/images/miner-2.jpg">
     </div>
   </div>
