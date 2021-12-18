@@ -37,7 +37,7 @@ summary: A high performance computer that I designed and built for a cryptocurre
   </div>
   </div>
   <div class="ui vertical segment"
-   <img class="ui centered medium rounded image" src="/images/miner-1.jpg">
+   <img class="ui medium left floated rounded image" src="/images/miner-3.jpg">
     <p>This shows the speed of the mining rig</p>
   </div>
 
