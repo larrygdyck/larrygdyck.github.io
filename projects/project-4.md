@@ -7,7 +7,7 @@ permalink: projects/miner
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-12
 labels:
-  - Custom Computer Build
+  - Custom Computer
   - Cryptocurrency
   - Linux Scripting
 summary: A high performance computer that I designed and built for a cryptocurrency mining venture.
