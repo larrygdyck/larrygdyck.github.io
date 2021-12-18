@@ -16,12 +16,14 @@ summary: A high performance computer that I designed and built for a cryptocurre
   
   <div class="ui segment">
   <img class="ui medium rounded image" src="/images/miner-1.jpg">
-  <div class="ui divider"></div>
+  <div class="ui hidden divider"></div>
   <p>I designed the enclosure in five separate, stackable segments, each one having a hexagonal footprint. This provided optimum cooling for each GPU and allowed individual segments to be removed for maintenance or repair as necessary, while allowing the other segments to continue operating, reducing down time.</p>
   </div>
   
   <div class="ui segment">
   <p>I constructed this computing tower using off the shelf components, including 25 AMD Radeon RX580 Graphics processing units (GPU's) which handle the task of processing the mathematical algorithms that verify digital currency transactions and generate new cryptocurrency in the process.</p>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
    <div class="ui hidden divider"></div>
    <img class="ui medium rounded image" src="/images/miner-2.jpg">
     </div>
