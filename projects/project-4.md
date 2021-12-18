@@ -38,7 +38,7 @@ summary: A high performance computer that I designed and built for a cryptocurre
   </div>
  
   <div class="ui segment">
-    <img class="ui medium left floated rounded image" src="/images/ether-stats.jpg">
+    <img class="ui large left floated rounded image" src="/images/ether-stats.jpg">
     <div class="ui hidden divider"></div>
    <div class="ui hidden divider"></div>
    <div class="ui hidden divider"></div>
