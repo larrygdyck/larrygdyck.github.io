@@ -38,8 +38,8 @@ summary: A high performance computer that I designed and built for a cryptocurre
   </div>
  
   <div class="ui raised center aligned vertigal segment">
-    <img class="ui large centered rounded image" src="/images/ether-stats.jpg">
     <div class="ui hidden divider"></div>
+    <img class="ui large centered rounded image" src="/images/ether-stats.jpg">
     <p>Averaging 750 MH/s this mining rig generated roughly 1.5 Eth per month</p>
   </div>
   
