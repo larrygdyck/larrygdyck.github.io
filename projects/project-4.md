@@ -54,6 +54,13 @@ summary: A high performance computer that I designed and built for a cryptocurre
    <div class="ui hidden divider"></div>
    <div class="ui hidden divider"></div>
    <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
   </div>
   
 </div>
