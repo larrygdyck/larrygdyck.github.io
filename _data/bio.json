@@ -54,6 +54,7 @@
         "SwiftUI",
         "Metal",
         "C++" 
+        "CLI Scripting (Linux/macOS)"
       ]
     },
     {
