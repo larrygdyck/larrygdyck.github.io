@@ -39,7 +39,21 @@ summary: A high performance computer that I designed and built for a cryptocurre
  
   <div class="ui segment">
     <img class="ui medium left floated rounded image" src="/images/miner-3.jpg">
+    <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
     <p>This is how fast it runs</p>
+    <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
+   <div class="ui hidden divider"></div>
   </div>
   
 </div>
