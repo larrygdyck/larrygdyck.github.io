@@ -12,7 +12,7 @@ labels:
 summary: A high performance computer that I designed and built for a cryptocurrency mining venture.
 ---
 
-<div class="ui segments">
+<div class="ui vertical segment">
 
 <div class="ui horizontal segments">
   
@@ -37,30 +37,10 @@ summary: A high performance computer that I designed and built for a cryptocurre
     </div>
   </div>
  
-  <div class="ui segment">
-    <img class="ui large left floated rounded image" src="/images/ether-stats.jpg">
+  <div class="ui vertigal segment">
+    <img class="ui large centered rounded image" src="/images/ether-stats.jpg">
     <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
     <p>This is how fast it runs</p>
-    <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
   </div>
   
 </div>
