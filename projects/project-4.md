@@ -12,7 +12,7 @@ labels:
 summary: A high performance computer that I designed and built for a cryptocurrency mining venture.
 ---
 
-
+<div class="ui segments">
 
 <div class="ui horizontal segments">
   
@@ -37,7 +37,11 @@ summary: A high performance computer that I designed and built for a cryptocurre
     </div>
   </div>
  
-
+  <div class="ui segment">
+    <p>Bottom</p>
+  </div>
+  
+</div>
   
 
 
