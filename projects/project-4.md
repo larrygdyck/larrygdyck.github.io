@@ -25,6 +25,9 @@ summary: A high performance computer that I designed and built for a cryptocurre
    <div class="ui hidden divider"></div>
    <div class="ui hidden divider"></div>
    <div class="ui hidden divider"></div>
+    <div class="ui hidden divider"></div>
+    <div class="ui hidden divider"></div>
+    <div class="ui hidden divider"></div>
    <img class="ui medium rounded image" src="/images/miner-2.jpg">
     </div>
   </div>
