@@ -12,14 +12,16 @@ labels:
 summary: A high performance computer that I designed and built for a cryptocurrency mining venture.
 ---
 
-<div class="ui right aligned segment">
-   <p>I constructed this computing tower using off the shelf computer parts, including 25 AMD Radeon RX580 Graphics processing units (GPU's) which handle the task of processing the mathematical algorithms that verify digital currency transactions and generate new cryptocurrency in the process.</p>
-   <img class="ui medium left floated rounded image" src="../images/miner-1.jpg">
-</div>  
+<div class="ui segment">
   
-<div class="ui left aligned segment">
-   <p>I designed the enclosure in five separate, stackable segments, each one having a hexagonal footprint. This provided optimum cooling for each GPU and allowed individual segments to be removed for maintenance or repair as necessary, while allowing the other segments to continue operating, reducing down time.</p>
-   <img class="ui medium right floated rounded image" src="../images/miner-2.jpg">   
+  <img class="ui medium left floated image" src=".../images/miner-1.png">
+  <div class ="ui segment">
+  <p>Te eum doming eirmod, nominati pertinacia argumentum ad his. Ex eam alia facete scriptorem, est autem aliquip detraxit at. Usu ocurreret referrentur at, cu epicurei appellantur vix. Cum ea laoreet recteque electram, eos choro alterum definiebas in. Vim dolorum definiebas an. Mei ex natum rebum iisque.</p>
+  </div>
+  <img class="ui medium right floated image" src=".../images/miners-2.png">
+  <div class ="ui segment">
+  <p>Audiam quaerendum eu sea, pro omittam definiebas ex. Te est latine definitiones. Quot wisi nulla ex duo. Vis sint solet expetenda ne, his te phaedrum referrentur consectetuer. Id vix fabulas oporteat, ei quo vide phaedrum, vim vivendum maiestatis in.</p>
+  </div>
 </div>
 
 
