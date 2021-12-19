@@ -11,7 +11,7 @@ labels:
   - Meteor
   - MongoDB
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+summary: A fancy fractal screensaver
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
