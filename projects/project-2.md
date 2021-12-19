@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
+title: Fractal Screensaver
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2021-12-15
 labels:
   - Javascript
   - Meteor
