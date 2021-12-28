@@ -10,7 +10,7 @@ labels:
   - iOS
   - Swift
   - SwiftUI
-summary: I developed a HIIT timing and guidance app for iOS and iPadOS and watchOS
+summary: I developed a HIIT timing and guidance app for iOS & watchOS
 ---
 
 <div class="ui small rounded images">
