@@ -1,17 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Fractal Screensaver
+image: images/output.png
+title: Appelbrot
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - Swift
+  - SwiftUI
+  - Metal
   - GitHub
-summary: A fancy fractal screensaver
+summary: A macOS fractal screensaver
 ---
 
 <img class="ui medium right floated rounded image" src="../images/output.png">
