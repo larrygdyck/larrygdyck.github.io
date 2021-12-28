@@ -7,7 +7,7 @@ permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
 date: 2021-12-28
 labels:
-  - iOS/iPadOS/watchOS
+  - iOS
   - Swift
   - SwiftUI
 summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
