@@ -29,8 +29,6 @@ summary: A high performance computer that I designed and built for a cryptocurre
   <p>I constructed this computing tower using off the shelf components, including 25 AMD Radeon RX580 Graphics processing units (GPU's) which handle the task of processing the mathematical algorithms that verify blockchain transactions and generate new cryptocurrency in the process. In this project I gained experience writing Linux scripts that automate/monitor the mining rigs as well as controlling their low level hardware parameters. For GPU's this meant increasing their clock speeds and reducing voltage levels in order to get maximum performance while keeping electrical power draw to a minimum, which also helped to keep the machines from running too hot. </p>
    <div class="ui hidden divider"></div>
    <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
-   <div class="ui hidden divider"></div>
 
    <img class="ui centered medium rounded image" src="/images/miner-2.jpg">
     </div>
