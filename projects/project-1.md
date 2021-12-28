@@ -10,7 +10,7 @@ labels:
   - iOS
   - Swift
   - SwiftUI
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: I developed a HIIT timing and guidance app for iOS and iPadOS and watchOS
 ---
 
 <div class="ui small rounded images">
