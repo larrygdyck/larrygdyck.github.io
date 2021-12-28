@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/HIIT2.jpg
+image: images/HIIT.jpg
 title: HIITicker
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
